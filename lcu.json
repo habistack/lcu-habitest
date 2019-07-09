@@ -1,0 +1,14 @@
+{ 
+    "templates": {
+        "repository": "lowcodeunit-devkit/lcu-cli-templates-core",
+        "scope": "@habistack",
+        "workspace": "lcu-habitest"
+    },
+    "config": {
+      "wc": ["wc/lcu-habitest.lcu.js"],
+      "solutions": {},
+      "elements": {},
+      "flux": {},
+      "dependencies": {}
+    }
+}
